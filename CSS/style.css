@@ -846,6 +846,7 @@ footer p {
   .main-visual-img {
     width: 0 auto;
     position: relative;
+    
   }
 
   .top-text {
@@ -858,7 +859,7 @@ footer p {
     font-size: 65px;
     line-height: 1.2;
     /* 行間を狭める */
-    margin-bottom: 50%;
+    margin-bottom: 70%;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
   }
 
