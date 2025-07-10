@@ -595,45 +595,7 @@ footer p {
   margin-bottom: 20px;
 }
 
-.nav-links,
-.social-links {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
 
-.nav-links a,
-.social-links a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 14px;
-  transition: color 0.3s;
-}
-
-.nav-links a:hover,
-.social-links a:hover {
-  color: #00bfff;
-}
-
-.social .social-links {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.social-links a {
-  margin: 0 10px;
-  color: #ff70c0;
-  transition: color 0.3s;
-}
-
-.social-links a:hover {
-  color: #a50d63;
-  /* ピンク系に変更など */
-}
 
 /* ボタン */
 .btn-view-site {
